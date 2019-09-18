@@ -5,10 +5,17 @@ public class Day1
   public static void main(String[] args)
   {
       System.out.println("welcome To JAVA");
+      //variable declaration
       int a,b,c;
+
+      //value assignment
       a=10;
       b=20;
+
+      //perform add
       c =a+b;
+
+      //Display results
       System.out.println("SUM:"+c);
 
   }
