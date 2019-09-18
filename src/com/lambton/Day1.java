@@ -15,7 +15,7 @@ public class Day1
       //perform add
       c =a+b;
 
-      
+
       System.out.println("SUM:"+c);
 
   }
