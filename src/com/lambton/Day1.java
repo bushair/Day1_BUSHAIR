@@ -17,6 +17,9 @@ public class Day1
 
 
       System.out.println("SUM:"+c);
+      int x=Integer.MAX_VALUE;
+       System.out.println("x:"+x);
+
 
   }
 }
